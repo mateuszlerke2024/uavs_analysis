@@ -1,4 +1,4 @@
-# Documentation
+# Setup Guide
 
 ### Setup Code
 1. Download the source code:
